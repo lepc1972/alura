@@ -1,3 +1,5 @@
 # alura
 
-Este es el archivo con la clase 1 y 2 y desafios, tambien esta el desafio de la columna valor para poder aplicarle funciones estadisticas.
+Tenemos un conjunto de archivos originados con los notebooks de google colab, desde la clase 1 a la 4 con diferentes dataframes y graficos de un conjunto de inmuebles en Bogota, luego de una limpieza de datos hacemos un merge con unas tablas del DANE, para mas tarde implementar un modelo de machine learning.
+
+gracias.
